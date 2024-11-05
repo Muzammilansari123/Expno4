@@ -1,5 +1,5 @@
 /*
-Aim : WAP
+Aim : WAP to find prime number between two numbers
 */
 
 #include<stdio.h>
